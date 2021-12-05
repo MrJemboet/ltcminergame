@@ -1,7 +1,6 @@
 >bash
 
 pkg update -y
-pkg upgrade
+pkg upgrade -y
 pkg install php -y
-pkg install bash -y
 pkg install curl -y
