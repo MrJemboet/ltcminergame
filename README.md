@@ -1,3 +1,3 @@
-pkg update && pkg upgrade && pkg install php && pkg install git && git clone  
-
+MINING LTC 100 WALLET
+MOHON UNTUK ISI 101 WALLET YG 102 KOSONGKAN
 # ltcminergame
